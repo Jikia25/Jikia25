@@ -14,8 +14,8 @@ Project Manager focused on AI products, product discovery, MVP validation, and d
 - UX flows
 - MVP development
 
-## 🛠 Tools
-Jira • Notion • Trello • Miro • confluence • GitHub • AI Tools •
+##  Tools
+Confluence • Jira • Notion • Figma • Miro • Trello • GitHub
 
 ##  Featured projects
 - AI Time Mentor
